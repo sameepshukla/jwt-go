@@ -1,7 +1,7 @@
 package routes
 
 import(
-	"github.com/sameepshukla/jwt-go/controllers"
+	controller "github.com/sameepshukla/jwt-go/controllers"
 	"github.com/sameepshukla/jwt-go/middleware"
 	"github.com/gin-gonic/gin"
 )
